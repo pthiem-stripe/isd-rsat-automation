@@ -1,0 +1,215 @@
+2022-05-27 10:44:55 INFO     {"result":{"id":"AFL_TsjsdgBgvw1AEAM"},"meta":{"httpStatus":"200 - OK","requestId":"139bba09-d08c-4f05-9773-e0e8a65fb071","transactionId":"015c2227-d519-45ca-8495-3ee54863519c"}}
+
+2022-05-27 10:52:04 INFO     {"result":{"id":"AFL_TsjsdgBgvw1AEAM"},"meta":{"httpStatus":"200 - OK","requestId":"2c7b5fa0-3c6f-4744-9d1c-f2db79bf149d","transactionId":"bcafc2ec-0ae2-475e-9a1b-52182716e265"}}
+
+2022-05-27 10:53:03 INFO     {"result":{"id":"AFL_TsjsdgBgvw1AEAM"},"meta":{"httpStatus":"200 - OK","requestId":"7f4e6ba3-3449-413d-a6fc-6b3a51764d27","transactionId":"6f552b2a-0a14-4697-b4aa-00107ed66114"}}
+
+2022-05-27 10:54:04 INFO     {"result":{"id":"AFL_TsjsdgBgvw1AEAM"},"meta":{"httpStatus":"200 - OK","requestId":"921eebeb-75ab-400d-87ca-6b01196a1b70","transactionId":"07d3c0bb-45b9-47fe-9930-8da1fde09c68"}}
+
+2022-05-27 10:55:05 INFO     {"result":{"id":"AFL_TsjsdgBgvw1AEAM"},"meta":{"httpStatus":"200 - OK","requestId":"c1c59f1e-4879-4283-874f-c11bd1270992","transactionId":"2cc13b25-80d9-4e8c-b0ab-27fa394ec592"}}
+
+2022-05-27 10:56:04 INFO     {"result":{"id":"AFL_TsjsdgBgvw1AEAM"},"meta":{"httpStatus":"200 - OK","requestId":"8ebfd4bc-e545-4658-8f3e-0fab227c00f3","transactionId":"4bf90a6f-372b-4f0b-b5b6-2545ee7bdba2"}}
+
+2022-05-27 10:57:04 INFO     {"result":{"id":"AFL_TsjsdgBgvw1AEAM"},"meta":{"httpStatus":"200 - OK","requestId":"6af7deff-0e3e-497c-a357-9828ec179c5b","transactionId":"446d7923-b018-42b6-903d-00fdbae805c7"}}
+
+2022-05-27 10:58:04 INFO     {"result":{"id":"AFL_TsjsdgBgvw1AEAM"},"meta":{"httpStatus":"200 - OK","requestId":"ee9e8c29-80fe-41b2-9742-1b694f556145","transactionId":"4180160f-3448-4f22-8bea-6b9eb45e6136"}}
+
+2022-05-27 10:59:04 INFO     {"result":{"id":"AFL_TsjsdgBgvw1AEAM"},"meta":{"httpStatus":"200 - OK","requestId":"b471d0b8-2d84-4d1b-8abc-f01973800868","transactionId":"639a56d9-3199-4ac6-9be5-c48409ee6a66"}}
+
+2022-05-27 11:00:04 INFO     {"result":{"id":"AFL_TsjsdgBgvw1AEAM"},"meta":{"httpStatus":"200 - OK","requestId":"094aed85-2a9e-43bd-b0e0-58fb69c0325c","transactionId":"f9c08c36-2bfc-4ee2-afcc-58f93960e631"}}
+
+2022-05-30 11:45:54 INFO     {"result":{"id":"AFL_oda0tnDOU1ZKLVL"},"meta":{"httpStatus":"200 - OK","requestId":"f2d637ae-b9b9-487f-857c-687b37fb1765","transactionId":"c911680d-ca50-4216-ab5f-d2854f3647a7"}}
+
+2022-05-30 11:46:04 INFO     {"result":{"id":"AFL_oda0tnDOU1ZKLVL"},"meta":{"httpStatus":"200 - OK","requestId":"ce3873eb-db7f-49dd-86ee-dd5445175465","transactionId":"3ac0622e-62fa-4860-9ad6-103d2e8c60e0"}}
+
+2022-05-30 13:09:52 INFO     {"result":{"id":"AFL_vNc6iwuTLs8slG0"},"meta":{"httpStatus":"200 - OK","requestId":"72b7ea98-cbaf-460b-b200-51c03c3293ab","transactionId":"51752a95-25e8-4aa8-902f-c8253e22b732"}}
+
+2022-05-30 13:09:55 INFO     {"result":{"id":"AFL_E2O8u8k2Cx1tR8T"},"meta":{"httpStatus":"200 - OK","requestId":"925ea180-8a2b-4827-b9d4-68b598cfa029","transactionId":"c4595c38-51b2-4831-b7e3-ed0441617611"}}
+
+2022-05-30 13:13:44 INFO     {"result":{"id":"AFL_r21pg2lsmZ1Wc20"},"meta":{"httpStatus":"200 - OK","requestId":"d566c1b2-edc5-4ff8-8d02-790329a3586c","transactionId":"bdff11a8-5f17-4cd1-a6a7-b5249a9455a6"}}
+
+2022-05-30 13:13:46 INFO     {"result":{"id":"AFL_I0ABBRA6mvU9nCZ"},"meta":{"httpStatus":"200 - OK","requestId":"9ff5e807-a69c-4004-9d11-6fa709e7a213","transactionId":"4e41bf2e-932d-46d6-9c35-e7efc2819a5f"}}
+
+2022-05-30 13:18:32 INFO     {"result":{"id":"AFL_uTYa4SfburSvnWu"},"meta":{"httpStatus":"200 - OK","requestId":"9512b214-6933-45bf-b7cb-073e5bedbb8f","transactionId":"8ca6e1e0-0e6c-4b0c-91d4-eb2e9d32ec95"}}
+
+2022-05-30 13:18:34 INFO     {"result":{"id":"AFL_wega8iobVDSfBDM"},"meta":{"httpStatus":"200 - OK","requestId":"9122c8bf-406c-4552-8fe6-05f6eb715463","transactionId":"37a724c9-9096-42cd-9056-099ac14d41e9"}}
+
+2022-05-30 17:41:18 INFO     {"result":{"id":"AFL_VEIaSnC1CvYuY9p"},"meta":{"httpStatus":"200 - OK","requestId":"ffb0b5e1-b5a3-4d27-bb90-de2a583f418b","transactionId":"87b18008-7a95-4f6a-b134-a04dea5cf97a"}}
+
+2022-05-30 17:41:20 INFO     {"result":{"id":"AFL_jcZwHQJaAgiscKh"},"meta":{"httpStatus":"200 - OK","requestId":"04ad21ef-be67-4805-a112-7a7e7467ece7","transactionId":"f31e9f6c-b60d-446b-ba3e-5f54282bf753"}}
+
+2022-05-31 16:35:12 INFO     {"result":{"id":"AFL_zGc2bFrLJjf7iil"},"meta":{"httpStatus":"200 - OK","requestId":"4417d3ce-bc36-4b4c-93eb-3b1f6a6bfcb5","transactionId":"b8d2cc46-e9d3-4aa8-8061-bf288b2293a9"}}
+
+2022-05-31 16:35:14 INFO     {"result":{"id":"AFL_B74lAhhjCMpL0ls"},"meta":{"httpStatus":"200 - OK","requestId":"e653a2bc-068a-48e3-860c-1888f198c2ac","transactionId":"b968a7cb-4ab3-462b-8a39-0ed477668db6"}}
+
+2022-05-31 16:35:16 INFO     {"result":{"id":"AFL_rlWVGG1O4yj5jiU"},"meta":{"httpStatus":"200 - OK","requestId":"d69e7c80-c6bc-40dd-9fb0-e2c79032fc4d","transactionId":"eedf0562-6500-44d5-8085-92f3c7e3ca9c"}}
+
+2022-05-31 16:53:12 INFO     {"result":{"id":"AFL_zGc2bFrLJjf7iil"},"meta":{"httpStatus":"200 - OK","requestId":"af6164c2-4ab9-4a2b-a7df-6a3c906f6f56","transactionId":"26930b02-575a-4b2b-a786-0e9ae15157e4"}}
+
+2022-05-31 16:53:14 INFO     {"result":{"id":"AFL_B74lAhhjCMpL0ls"},"meta":{"httpStatus":"200 - OK","requestId":"9e034987-065f-47a2-a366-d836ac913a31","transactionId":"9d51effc-977a-4ad6-a842-e0ef50ee8428"}}
+
+2022-05-31 16:53:16 INFO     {"result":{"id":"AFL_5ZikyF2nLfJalax"},"meta":{"httpStatus":"200 - OK","requestId":"06fccf5a-f432-449a-9cc5-b560f5021103","transactionId":"b483decc-9bb8-49a1-8755-09dcdb29a7f8"}}
+
+2022-06-14 11:19:39 INFO     {"result":{"id":"AFL_eLSAvQPIZ7ldO49"},"meta":{"httpStatus":"200 - OK","requestId":"fb18e12d-42d1-42ef-9f95-8ff69e17ef48","transactionId":"fbcda806-23e4-4c49-a160-dbbdaa371281"}}
+
+2022-06-14 11:19:41 INFO     {"result":{"id":"AFL_KO728YeuTKBblcw"},"meta":{"httpStatus":"200 - OK","requestId":"d687ad33-f241-48e9-adf6-0bb4d0176d71","transactionId":"b01f9f3c-b827-4051-93e7-d859de3a98d0"}}
+
+2022-06-14 11:19:43 INFO     {"result":{"id":"AFL_M2VJvadSSCYXbcS"},"meta":{"httpStatus":"200 - OK","requestId":"ee6a412b-1b22-4469-a117-92cac189f298","transactionId":"a2ce0cee-484b-4bf8-a0a1-4e9f29b2f043"}}
+
+2022-06-14 11:19:45 INFO     {"result":{"id":"AFL_2y46mndyUsJzaVL"},"meta":{"httpStatus":"200 - OK","requestId":"1da89507-01be-4398-9ee1-a74e6e5ffa7c","transactionId":"fc30dff9-5157-44b3-8694-e113919f2e01"}}
+
+2022-06-14 11:19:47 INFO     {"result":{"id":"AFL_3lGHm26brilAuDS"},"meta":{"httpStatus":"200 - OK","requestId":"323476f7-c7b8-49e2-8d52-7ef0b296c93e","transactionId":"40a2ea74-0fb6-4e13-94fa-5e0e87c91623"}}
+
+2022-06-16 18:36:38 INFO     {"result":{"id":"AFL_MlMl2UFunJHdlf2"},"meta":{"httpStatus":"200 - OK","requestId":"bee415b3-2cc3-4893-b574-4dddbc9bf2ad","transactionId":"4645c5d2-487c-43dc-ae99-9796127ce6ed"}}
+
+2022-06-16 18:36:40 INFO     {"result":{"id":"AFL_gANjTK9Q0ymDizV"},"meta":{"httpStatus":"200 - OK","requestId":"8be44182-be6a-4779-80f5-90ad18f84f4b","transactionId":"5e8596f4-8e00-43b1-bafe-5737e479312f"}}
+
+2022-06-16 18:36:42 INFO     {"result":{"id":"AFL_jXBzUW8dVsBSXjV"},"meta":{"httpStatus":"200 - OK","requestId":"36aaaec2-a5e6-45d5-a55f-a1847081502f","transactionId":"52ec0859-6444-4fca-b042-7c4b3d0d438f"}}
+
+2022-06-16 18:36:44 INFO     {"result":{"id":"AFL_KiEKkBbxXsq5qyP"},"meta":{"httpStatus":"200 - OK","requestId":"1dd9c230-3def-449b-8f4e-1a311dc59b8a","transactionId":"d55f8ac8-adc3-4fea-b36b-fedec55f2245"}}
+
+2022-06-16 18:36:47 INFO     {"result":{"id":"AFL_gpGbtGmWuUXcPKS"},"meta":{"httpStatus":"200 - OK","requestId":"e1566b79-e4a2-4b84-a4a2-b85e7540372c","transactionId":"9902e651-38fb-4499-ae1e-459079e26cdd"}}
+
+2022-06-20 10:17:56 INFO     {"result":{"id":"AFL_5YU5qo6qRkR3rFD"},"meta":{"httpStatus":"200 - OK","requestId":"ce8226cd-6de0-49e9-936a-badff65081ef","transactionId":"328edbb6-06d4-4be0-ad52-bf5530c6ce47"}}
+
+2022-06-20 10:17:58 INFO     {"result":{"id":"AFL_bCzpsHwnL2AeVTz"},"meta":{"httpStatus":"200 - OK","requestId":"68f6a39d-db14-480b-a611-67f0b449f20f","transactionId":"0c8e6ece-8126-4b37-93f6-0672511de1fe"}}
+
+2022-06-20 10:18:00 INFO     {"result":{"id":"AFL_rViW18xNHuPrQEj"},"meta":{"httpStatus":"200 - OK","requestId":"f98588f2-41c3-45e4-b228-72a9022877e3","transactionId":"cd7421a0-75c8-4e8b-9f89-8e6f0020b857"}}
+
+2022-06-20 10:18:03 INFO     {"result":{"id":"AFL_Alm4ZXXsIvlwK4b"},"meta":{"httpStatus":"200 - OK","requestId":"12d9d8f7-73ad-4634-9312-e863eae47ac2","transactionId":"14318888-0ac6-4292-bc4e-92cbbb400852"}}
+
+2022-06-20 10:18:05 INFO     {"result":{"id":"AFL_7bymhM7RArAHUCw"},"meta":{"httpStatus":"200 - OK","requestId":"8e46fbb3-9319-44e5-869f-b85721675205","transactionId":"fe6a5c52-b9ea-4e44-beb4-18155e722e6e"}}
+
+2022-06-21 10:01:12 INFO     {"result":{"id":"AFL_VQw4xRYJagOQTBn"},"meta":{"httpStatus":"200 - OK","requestId":"c8eea3e6-0f97-48fc-8ce8-a821dcd72ad2","transactionId":"7d2c9049-56f5-47aa-bd54-a6d5e4e79e36"}}
+
+2022-06-21 10:01:14 INFO     {"result":{"id":"AFL_V8D9ZNJS9LFZVa5"},"meta":{"httpStatus":"200 - OK","requestId":"e5494e7a-fc7d-4231-b4e8-e1a2eb6e3543","transactionId":"31b621c9-037d-4dc0-8fcd-8f1c9c6c593e"}}
+
+2022-06-21 10:01:16 INFO     {"result":{"id":"AFL_qCntG4Vd0MWbOjT"},"meta":{"httpStatus":"200 - OK","requestId":"93cb90ee-8402-4a21-9b23-42ffa0ff5cfe","transactionId":"75adf39a-e794-4b90-b07d-b0e3fb187dbf"}}
+
+2022-06-21 10:01:18 INFO     {"result":{"id":"AFL_tX8afOzw1n7NLuG"},"meta":{"httpStatus":"200 - OK","requestId":"b23e1934-1d22-4700-b9bc-5e245babe582","transactionId":"e72e5bcd-16c0-4f68-85ee-414773e9bd98"}}
+
+2022-06-21 10:01:20 INFO     {"result":{"id":"AFL_PWW1rQnYCagcELJ"},"meta":{"httpStatus":"200 - OK","requestId":"2de86b66-2846-4425-9656-69fb748e2af0","transactionId":"e56b7474-eae1-473b-9066-9e645fdc57fa"}}
+
+2022-06-22 09:06:07 INFO     {"result":{"id":"AFL_bsygQA0Sy2wzWU4"},"meta":{"httpStatus":"200 - OK","requestId":"376504d5-3f94-4881-9ce7-bfe45f371da1","transactionId":"5ada7ee3-b10e-4284-a703-d9a3f272881c"}}
+
+2022-06-22 09:06:09 INFO     {"result":{"id":"AFL_Pdig2KepHcmzpFa"},"meta":{"httpStatus":"200 - OK","requestId":"6f514737-0fa5-4146-98f6-f9ee7ede3ddd","transactionId":"c7d2f164-13dd-43fe-80ce-2399a582ce55"}}
+
+2022-06-22 09:06:11 INFO     {"result":{"id":"AFL_FkRBMxjWqtcuqnQ"},"meta":{"httpStatus":"200 - OK","requestId":"ef84561e-cbf4-493c-8d89-7ac8e24c235b","transactionId":"33a6c259-538b-462e-8564-91ff14524fed"}}
+
+2022-06-22 09:06:13 INFO     {"result":{"id":"AFL_qmfT5OmRlTLNRE7"},"meta":{"httpStatus":"200 - OK","requestId":"372300b2-5c18-4422-9cb7-ffad3aa7bdb0","transactionId":"8d1531eb-9d72-4641-b73d-c23b3b80830c"}}
+
+2022-06-22 09:06:15 INFO     {"result":{"id":"AFL_vXVSBYP2TPpl7HS"},"meta":{"httpStatus":"200 - OK","requestId":"036556f1-753d-41b3-8f31-03c3e1f7f48d","transactionId":"bb74f502-bf78-4f02-a656-3cd4d7fead9e"}}
+
+2022-06-23 10:32:34 INFO     {"result":{"id":"AFL_G1ajmN63JBXnNwz"},"meta":{"httpStatus":"200 - OK","requestId":"8ded68ef-e2e2-4000-b934-351e8468dd6d","transactionId":"a91b11e1-d76c-48f2-b612-58f953336dd9"}}
+
+2022-06-23 10:32:36 INFO     {"result":{"id":"AFL_leqYpm9ibEEdakQ"},"meta":{"httpStatus":"200 - OK","requestId":"232f72f7-db24-4509-b313-6f6d6b95cd07","transactionId":"5a2f1e44-32ca-4041-b2ad-33b4d3e53830"}}
+
+2022-06-23 10:32:39 INFO     {"result":{"id":"AFL_iNa0g4Hsbt3eKmz"},"meta":{"httpStatus":"200 - OK","requestId":"8e86e8cc-23e4-44cf-b752-1c5eb4e0c517","transactionId":"260d31f8-a6d2-4b93-ad29-375505c8d880"}}
+
+2022-06-23 10:32:41 INFO     {"result":{"id":"AFL_L9KsngqaZGW8BMc"},"meta":{"httpStatus":"200 - OK","requestId":"581f879e-aa7d-4f9b-b81b-2c6e3faf2de0","transactionId":"c3b566a7-0209-4388-9761-2694df980e26"}}
+
+2022-06-23 10:32:43 INFO     {"result":{"id":"AFL_Kw7GV255TJTyXSv"},"meta":{"httpStatus":"200 - OK","requestId":"063beab5-bec3-4979-9354-3c592047cb5d","transactionId":"d8a852ab-bade-438b-a7a9-fd022a986f5f"}}
+
+2022-06-24 15:36:52 INFO     {"result":{"id":"AFL_A92mu6ieUOaNVkQ"},"meta":{"httpStatus":"200 - OK","requestId":"bc4ceac0-9ff4-43b7-a68a-8169dac0a130","transactionId":"3645b394-4565-4142-ab00-303f740ca5b1"}}
+
+2022-06-24 15:36:54 INFO     {"result":{"id":"AFL_rCaDvUc29r1vTsv"},"meta":{"httpStatus":"200 - OK","requestId":"c89e15d5-58dc-43d3-82a0-80162aae55fd","transactionId":"1cc474cb-9681-491f-9d24-29d4204b5cf7"}}
+
+2022-06-24 15:36:56 INFO     {"result":{"id":"AFL_ibDJYBNeUJINPCX"},"meta":{"httpStatus":"200 - OK","requestId":"e1ebb337-82a8-41c5-9fa9-841e26d49fcd","transactionId":"fa3afd6f-8d09-4601-b533-861057287a88"}}
+
+2022-06-24 15:36:58 INFO     {"result":{"id":"AFL_UA9rwddgTXfex5l"},"meta":{"httpStatus":"200 - OK","requestId":"32d08b7e-250c-4949-87cd-5ebac53bfac6","transactionId":"547aab69-7a7c-47d6-ac39-6200d4d490bc"}}
+
+2022-06-24 15:37:00 INFO     {"result":{"id":"AFL_0zzCYQO0zp8nJTX"},"meta":{"httpStatus":"200 - OK","requestId":"8b54d28f-8b82-49bc-aad3-4753207942d2","transactionId":"50c98fee-629c-41ba-9a00-b1c83d1a1c0b"}}
+
+2022-06-27 16:50:05 INFO     {"result":{"id":"AFL_KLoMCaAJD6WJzss"},"meta":{"httpStatus":"200 - OK","requestId":"73bad5e9-57d9-4b83-8350-ca1f5c7cc30d","transactionId":"8f62efac-d533-446e-a476-a14f37f984cb"}}
+
+2022-06-27 16:50:09 INFO     {"result":{"id":"AFL_H5nQasx92RSkMNE"},"meta":{"httpStatus":"200 - OK","requestId":"8b045c65-7686-4116-a1d2-e98b2eb661fa","transactionId":"fb9d6bb1-0676-4f07-ab75-33915a0f4efc"}}
+
+2022-06-27 16:50:11 INFO     {"result":{"id":"AFL_4iXURJwN9fXeMaq"},"meta":{"httpStatus":"200 - OK","requestId":"06542c9f-2178-4508-a2cf-20cf19b0aa60","transactionId":"971eb442-2afa-4cde-98ca-7fe1b58d0189"}}
+
+2022-06-27 16:50:14 INFO     {"result":{"id":"AFL_3Qy3o9rPxaCQ5qt"},"meta":{"httpStatus":"200 - OK","requestId":"ade9b945-b3cc-42fa-bf2f-82b7267ee652","transactionId":"80820319-15d7-4694-8131-50a7ed94e74b"}}
+
+2022-06-27 16:50:17 INFO     {"result":{"id":"AFL_MPp7FvCLsya9GLV"},"meta":{"httpStatus":"200 - OK","requestId":"c6ec66aa-5259-42df-b974-5fc774fdba1b","transactionId":"091d7cc7-cf30-4c48-ba58-b3119b16a515"}}
+
+2022-06-29 15:00:50 INFO     {"result":{"id":"AFL_1J7HE9OsaHUu5fx"},"meta":{"httpStatus":"200 - OK","requestId":"ef76948e-9535-4bc1-970c-41432df3a49a","transactionId":"caeed8ae-d247-401f-a708-91a1517fa95f"}}
+
+2022-06-29 15:00:53 INFO     {"result":{"id":"AFL_FysT2VSARKyXqw7"},"meta":{"httpStatus":"200 - OK","requestId":"dc0d2d83-c9b8-4b95-934a-28aedaccc3d6","transactionId":"91f6b33c-15bb-4df4-8b09-03ba341eaee5"}}
+
+2022-06-29 15:00:56 INFO     {"result":{"id":"AFL_3JN9wFiY6CkwfWg"},"meta":{"httpStatus":"200 - OK","requestId":"d013038e-5f64-4f54-91f9-6a96d9f9f608","transactionId":"00c16a4a-153e-4433-93ea-0a4dcd97e727"}}
+
+2022-06-29 15:00:59 INFO     {"result":{"id":"AFL_1eqye7b3YhOum7a"},"meta":{"httpStatus":"200 - OK","requestId":"925e8c46-91ff-45d4-9cda-437c3ba39b3b","transactionId":"1098ed0d-a004-48ac-8d61-45ef3616f68e"}}
+
+2022-06-29 15:01:02 INFO     {"result":{"id":"AFL_VBZzHXOGaRbEhSx"},"meta":{"httpStatus":"200 - OK","requestId":"2a2d8e6d-bd26-4c25-8e5c-86ed6e3e4b2b","transactionId":"1473aaf1-151f-409f-abf2-219059839aad"}}
+
+2022-06-30 13:07:12 INFO     {"result":{"id":"AFL_ih24ogXgecZz7Br"},"meta":{"httpStatus":"200 - OK","requestId":"54ccdb26-a2fd-45c5-ad92-32a41059313f","transactionId":"d2c12d63-9653-43a9-a96e-9a4954f54f6f"}}
+
+2022-06-30 13:07:15 INFO     {"result":{"id":"AFL_l0oBcfnExA7XGo6"},"meta":{"httpStatus":"200 - OK","requestId":"7da29ed9-eb69-45ed-bdc0-f1d6bed929bb","transactionId":"9661fb51-c264-4737-a0a1-c43659391671"}}
+
+2022-06-30 13:07:18 INFO     {"result":{"id":"AFL_oHAjOAv8TquBkq1"},"meta":{"httpStatus":"200 - OK","requestId":"8f5d8e56-8031-4453-b20b-eb4427c42d61","transactionId":"cfebba74-cfe1-4d05-8e09-a93e3d2800d4"}}
+
+2022-06-30 13:07:21 INFO     {"result":{"id":"AFL_z7ULRDzkFrLRS4g"},"meta":{"httpStatus":"200 - OK","requestId":"533290c7-135f-4489-89c1-385a44a1be3b","transactionId":"781cf552-e4ef-45d7-ba97-24fc2952d0ac"}}
+
+2022-06-30 13:07:23 INFO     {"result":{"id":"AFL_2fpHbyh0CkBuNgW"},"meta":{"httpStatus":"200 - OK","requestId":"26e0af14-855d-40b3-ac6a-0b99c10f6838","transactionId":"58ccc463-2fcc-40fa-b6f7-924d7fad0943"}}
+
+2022-07-02 08:36:31 INFO     {"result":{"id":"AFL_23hpRRZAjp1gI6a"},"meta":{"httpStatus":"200 - OK","requestId":"77806754-0efe-47b3-9c42-9e72b3fe7d4f","transactionId":"7be1c9b7-9ef7-42b8-8c6d-d5ea601afa16"}}
+
+2022-07-02 08:36:34 INFO     {"result":{"id":"AFL_Pr0XsnzA6zdDkB7"},"meta":{"httpStatus":"200 - OK","requestId":"47c02f2e-f280-4845-a067-e1f211d60d7d","transactionId":"81361feb-1247-4fe6-a828-3f3c6439b940"}}
+
+2022-07-02 08:36:37 INFO     {"result":{"id":"AFL_wg0ScxX0gE3TAGX"},"meta":{"httpStatus":"200 - OK","requestId":"67fe9748-250f-452c-a4e9-3b236dedaec7","transactionId":"6f0c46ff-0b06-4f0f-958c-73ba91c47a4b"}}
+
+2022-07-02 08:36:40 INFO     {"result":{"id":"AFL_Mw9kp2og8PxCDCk"},"meta":{"httpStatus":"200 - OK","requestId":"0ec31072-1d7b-4eac-956d-732a53caa385","transactionId":"782c2033-eec4-4e3d-a38e-93f80371edc7"}}
+
+2022-07-02 08:36:42 INFO     {"result":{"id":"AFL_Q3l6c6cVGnNTdGw"},"meta":{"httpStatus":"200 - OK","requestId":"71501795-5883-41a6-9d35-f179ba8aa64b","transactionId":"70fdcb20-bee8-4c92-9333-a7a3bb51869b"}}
+
+2022-07-04 14:19:54 INFO     {"result":{"id":"AFL_rVS4reLHzKftLDM"},"meta":{"httpStatus":"200 - OK","requestId":"75e2a256-d272-43df-9c41-295f8b041e21","transactionId":"919265b3-f694-4b88-a625-e8b62857f706"}}
+
+2022-07-04 14:19:57 INFO     {"result":{"id":"AFL_hEC6PRVAAFcL3nK"},"meta":{"httpStatus":"200 - OK","requestId":"e28c512d-0cab-484d-9adb-832feb76a001","transactionId":"e9fc6f98-7dc3-4dad-b63c-e21905fd64c4"}}
+
+2022-07-04 14:19:59 INFO     {"result":{"id":"AFL_3rJ9CeBAmQfj9po"},"meta":{"httpStatus":"200 - OK","requestId":"7fe0e6ce-b4d8-452a-bb77-bbad895ba651","transactionId":"df3504e9-8d0f-456a-b4f2-1f2431a56cf3"}}
+
+2022-07-04 14:20:02 INFO     {"result":{"id":"AFL_3dmhYegnsJjIxdA"},"meta":{"httpStatus":"200 - OK","requestId":"e7827021-0d45-450f-9beb-1bc63c5810d0","transactionId":"11ac3e20-14a2-4b20-8362-5e6a6a3d4553"}}
+
+2022-07-04 14:20:05 INFO     {"result":{"id":"AFL_va6fNw48l2Tozrf"},"meta":{"httpStatus":"200 - OK","requestId":"84049ba0-2f17-4e10-af0e-c946cce99ff8","transactionId":"5ad5be6d-1f0b-45ef-ac5d-4a487c0e8914"}}
+
+2023-03-21 13:40:02 INFO     making initial request to http://hubble.corp.stripe.com/a/query_url/724dcb43
+2023-03-21 13:40:03 INFO     Hubble permalink: http://hubble.corp.stripe.com/queries/service_viz/724dcb43
+2023-03-21 13:40:06 INFO     {"result":{"id":"AFL_m1arbwi0dSSqAfE"},"meta":{"httpStatus":"200 - OK","requestId":"2f5d67d3-613a-44b0-acc7-ae56f68c3d34","transactionId":"6a543298-8f81-4efa-8bf6-2294c0122b9c"}}
+
+2023-03-21 13:40:06 INFO     making initial request to http://hubble.corp.stripe.com/a/query_url/efedd534
+2023-03-21 13:40:07 INFO     Hubble permalink: http://hubble.corp.stripe.com/queries/service_viz/efedd534
+2023-03-21 13:40:10 INFO     {"result":{"id":"AFL_QBIAN0sXYa5dLs5"},"meta":{"httpStatus":"200 - OK","requestId":"2da31f06-e644-40df-9a68-3b3263f17eb0","transactionId":"46b27b1f-0441-40c9-a5cc-bbb02be99ee8"}}
+
+2023-03-21 13:40:33 INFO     https://hubble.corp.stripe.com/queries/juan/724dcb43
+2023-03-21 13:40:33 INFO     making initial request to http://hubble.corp.stripe.com/a/query_url/724dcb43
+2023-03-21 13:40:35 INFO     Hubble permalink: http://hubble.corp.stripe.com/queries/service_viz/724dcb43
+2023-03-21 13:40:36 INFO                             email firstname
+0     djenane@bookingbash.com   Mohamed
+1  fujiken@flashbackcamera.jp        健次
+2023-03-21 13:40:36 INFO     https://hubble.corp.stripe.com/queries/juan/efedd534
+2023-03-21 13:40:37 INFO     making initial request to http://hubble.corp.stripe.com/a/query_url/efedd534
+2023-03-21 13:40:37 INFO     Hubble permalink: http://hubble.corp.stripe.com/queries/service_viz/efedd534
+2023-03-21 13:40:38 INFO                                    email  firstname
+0                 jon@getgolfing.org        Jon
+1                  elena@tufisio.com      Elena
+2  valentin.klepper@baguette-box.com   Valentin
+3     william@donpolloperiperi.co.uk    William
+4                     rh@bookplan.io      Roman
+5               tpotter@inpost.co.uk        Tim
+6         contact@maisondelasoie.com  Guillaume
+2023-03-21 13:47:52 INFO     h
+2023-03-21 13:47:52 INFO     https://hubble.corp.stripe.com/queries/juan/724dcb43
+2023-03-21 13:47:53 INFO     making initial request to http://hubble.corp.stripe.com/a/query_url/724dcb43
+2023-03-21 13:47:54 INFO     Hubble permalink: http://hubble.corp.stripe.com/queries/service_viz/724dcb43
+2023-03-21 13:47:55 INFO                             email firstname
+0     djenane@bookingbash.com   Mohamed
+1  fujiken@flashbackcamera.jp        健次
+2023-03-21 13:47:55 INFO     https://hubble.corp.stripe.com/queries/juan/efedd534
+2023-03-21 13:47:56 INFO     making initial request to http://hubble.corp.stripe.com/a/query_url/efedd534
+2023-03-21 13:47:57 INFO     Hubble permalink: http://hubble.corp.stripe.com/queries/service_viz/efedd534
+2023-03-21 13:47:58 INFO                                    email  firstname
+0                 jon@getgolfing.org        Jon
+1                  elena@tufisio.com      Elena
+2  valentin.klepper@baguette-box.com   Valentin
+3     william@donpolloperiperi.co.uk    William
+4                     rh@bookplan.io      Roman
+5               tpotter@inpost.co.uk        Tim
+6         contact@maisondelasoie.com  Guillaume
