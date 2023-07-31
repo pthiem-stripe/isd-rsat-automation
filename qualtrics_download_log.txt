@@ -1,0 +1,51 @@
+2023-07-05 17:42:10 INFO     start download
+2023-07-05 17:42:10 INFO     surveyId: SV_5bFlFw94TvTeurQ
+2023-07-05 17:42:12 INFO     <Response [200]>
+2023-07-05 17:42:12 INFO                          id parentDistributionId  ... stats.complaints stats.blocked
+0   EMD_oUB5GQOvtp7EdSg  EMD_ZDcqS4rZ2YjaTvA  ...                0             0
+1   EMD_fs0rA9Kr0JWaIoQ  EMD_Badf7Rnbgp7F7fR  ...                0             0
+2   EMD_vnavhU0IkESoGCM  EMD_85dfCAmRA0XgNUc  ...                0             0
+3   EMD_6PFcAmyLT53D8iR  EMD_fytFETM9KBBvtXG  ...                0             0
+4   EMD_ZDcqS4rZ2YjaTvA                 None  ...                0             0
+..                  ...                  ...  ...              ...           ...
+95  EMD_ifjPeZU6QD84zJd                 None  ...                0             0
+96  EMD_huEWzoSlxBL3hQz                 None  ...                0             0
+97  EMD_TwynSxPoa9EePgO                 None  ...                0             0
+98  EMD_GHn7pc2eS4Pb9qh                 None  ...                0             0
+99  EMD_0h2Y4KoFntmdkiR                 None  ...                0             0
+
+[100 rows x 32 columns]
+2023-07-05 17:58:24 INFO     start download
+2023-07-05 17:58:24 INFO     surveyId: SV_5bFlFw94TvTeurQ
+2023-07-05 17:58:27 INFO     <Response [200]>
+2023-07-05 17:58:27 INFO                          id parentDistributionId  ... stats.complaints stats.blocked
+0   EMD_oUB5GQOvtp7EdSg  EMD_ZDcqS4rZ2YjaTvA  ...                0             0
+1   EMD_fs0rA9Kr0JWaIoQ  EMD_Badf7Rnbgp7F7fR  ...                0             0
+2   EMD_vnavhU0IkESoGCM  EMD_85dfCAmRA0XgNUc  ...                0             0
+3   EMD_6PFcAmyLT53D8iR  EMD_fytFETM9KBBvtXG  ...                0             0
+4   EMD_ZDcqS4rZ2YjaTvA                 None  ...                0             0
+..                  ...                  ...  ...              ...           ...
+95  EMD_ifjPeZU6QD84zJd                 None  ...                0             0
+96  EMD_huEWzoSlxBL3hQz                 None  ...                0             0
+97  EMD_TwynSxPoa9EePgO                 None  ...                0             0
+98  EMD_GHn7pc2eS4Pb9qh                 None  ...                0             0
+99  EMD_0h2Y4KoFntmdkiR                 None  ...                0             0
+
+[100 rows x 32 columns]
+2023-07-05 18:00:28 INFO     start download
+2023-07-05 18:00:51 INFO     start download
+2023-07-05 18:00:54 INFO     <Response [200]>
+2023-07-05 18:00:54 INFO                          id parentDistributionId  ... stats.complaints stats.blocked
+0   EMD_oUB5GQOvtp7EdSg  EMD_ZDcqS4rZ2YjaTvA  ...                0             0
+1   EMD_fs0rA9Kr0JWaIoQ  EMD_Badf7Rnbgp7F7fR  ...                0             0
+2   EMD_vnavhU0IkESoGCM  EMD_85dfCAmRA0XgNUc  ...                0             0
+3   EMD_6PFcAmyLT53D8iR  EMD_fytFETM9KBBvtXG  ...                0             0
+4   EMD_ZDcqS4rZ2YjaTvA                 None  ...                0             0
+..                  ...                  ...  ...              ...           ...
+95  EMD_ifjPeZU6QD84zJd                 None  ...                0             0
+96  EMD_huEWzoSlxBL3hQz                 None  ...                0             0
+97  EMD_TwynSxPoa9EePgO                 None  ...                0             0
+98  EMD_GHn7pc2eS4Pb9qh                 None  ...                0             0
+99  EMD_0h2Y4KoFntmdkiR                 None  ...                0             0
+
+[100 rows x 32 columns]

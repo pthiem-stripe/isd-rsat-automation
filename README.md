@@ -13,6 +13,3 @@ A distribution object is defined for every survey that needs to be sent. Each di
 
 ### Go Live / End of engagement
 The script sends out the same RSAT survey twice. Once a user went live, and another time when the end of engagement date has been hit.
-### 30/60/75 day check-ins
-Currently, 30/60/75 day check-ins are disabled (see `distributions_old.json`). 
-

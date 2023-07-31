@@ -1,4 +1,4 @@
-from autohubble import hubble_permalink_to_df
+from autohubble import hubble_query_to_df, PRESTO
 from pandas import DataFrame
 from dotenv import load_dotenv
 import os
@@ -27,12 +27,17 @@ logging.basicConfig(filename="qualtrics_upload_log.txt",
 
 # Upload a file for each distribution
 for dist in DISTRIBUTIONS:
-    logging.info(dist["permalink"])
+    logging.info(dist["distribution"])
     # Converting Hubble query to .csv
-    df = hubble_permalink_to_df(dist["permalink"])
+    df = hubble_query_to_df(dist["query"], PRESTO, force_refresh=True)
     logging.info(df)
     # TODO: Specify encoding format
-    csv_file = DataFrame.to_csv(df)
+    csv_file = DataFrame.to_csv(df, index=False)
+    #f = open("a.csv", "a")
+    #f.write(csv_file)
+    #f.close()
+
+    logging.info(csv_file)
 
     # Return error if file error
     if not csv_file:
@@ -47,9 +52,3 @@ for dist in DISTRIBUTIONS:
     #Log response
     response = requests.post(url=dist_url, files=params, headers=HEADERS)
     logging.info(response.text)
-
-# Problem with permalinks is if you need to update them
-# Better to have the query in a .sql file, and refer to that using the library
-
-# If you are logged off, it won't run - machine always on
-#

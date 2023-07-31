@@ -14,7 +14,7 @@ HEADERS = {
 }
 
 # Survey IDs
-SURVEYS = ["SV_eeqjEriQPnotbPE", "SV_bejhQjWf2dfoJVk"]
+SURVEYS = ["SV_5bFlFw94TvTeurQ"]
 
 data_df = pd.DataFrame()
 for survey in SURVEYS:

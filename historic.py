@@ -3,6 +3,7 @@ import pandas as pd
 import os
 import requests
 import json
+import logging
 
 load_dotenv()
 
@@ -13,23 +14,24 @@ HEADERS = {
     "X-API-TOKEN": QUALTRICS_API_TOKEN,
 }
 
-# Survey IDs
-# Jumpstart RSAT: SV_3EprMr4z6svJcZ8 
-# ISD RSAT: SV_5bFlFw94TvTeurQ 
-SURVEYS = ["SV_3EprMr4z6svJcZ8", "SV_5bFlFw94TvTeurQ"]
+# Logger
+logging.basicConfig(filename="qualtrics_download_log.txt",
+                    format="%(asctime)s %(levelname)-8s %(message)s",
+                    encoding="utf-8", level=logging.INFO, datefmt="%Y-%m-%d %H:%M:%S")
+
+logging.info("start download")
 
 data_df = pd.DataFrame()
-for survey in SURVEYS:
-    params = {
-        "surveyId": survey
-    }
+params = {
+    "surveyId": "SV_5bFlFw94TvTeurQ"
+}
 
-    response = requests.get(url=QUALTRICS_ENDPOINT,
-                            params=params, headers=HEADERS)
-    data_json = response.json()
+response = requests.get(url=QUALTRICS_ENDPOINT,
+                        params=params, headers=HEADERS)
 
-    elements = data_json["result"]["elements"]
-    survey_df = pd.json_normalize(elements)
-    data_df = pd.concat([data_df, survey_df])
-
-data_df.to_csv('historic_data.csv')
+logging.info(response)
+data_json = response.json()
+elements = data_json["result"]["elements"]
+survey_df = pd.json_normalize(elements)
+logging.info(survey_df)
+survey_df.to_csv('historic.csv')
